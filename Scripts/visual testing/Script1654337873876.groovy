@@ -25,5 +25,5 @@ WebUI.maximizeWindow()
 
 WebUI.delay(7)
 
-WebUI.takeScreenshotAsCheckpoint('TEST UI', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.takeScreenshotAsCheckpoint('visual', FailureHandling.CONTINUE_ON_FAILURE)
 
