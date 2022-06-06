@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.instagram.com/')
+WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/')
 
 WebUI.maximizeWindow()
 
