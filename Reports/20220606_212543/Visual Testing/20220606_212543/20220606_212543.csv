@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Visual Testing,Chrome 102.0.5005.63,,,2022-06-06 21:25:59,2022-06-06 21:26:17,18.773s,PASSED
+,,,,,,,
+Test Cases/visual testing,Chrome 102.0.5005.63,,,2022-06-06 21:25:59,2022-06-06 21:26:17,18.431s,PASSED
+"openBrowser("""")",Chrome 102.0.5005.63,,,2022-06-06 21:25:59,2022-06-06 21:26:02,2.993s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/"")",Chrome 102.0.5005.63,,,2022-06-06 21:26:02,2022-06-06 21:26:09,6.237s,PASSED
+maximizeWindow(),Chrome 102.0.5005.63,,,2022-06-06 21:26:09,2022-06-06 21:26:09,0.194s,PASSED
+delay(7),Chrome 102.0.5005.63,,,2022-06-06 21:26:09,2022-06-06 21:26:16,7.077s,PASSED
+"takeScreenshotAsCheckpoint(""demo_visual"", CONTINUE_ON_FAILURE)",Chrome 102.0.5005.63,,,2022-06-06 21:26:16,2022-06-06 21:26:17,1.517s,PASSED

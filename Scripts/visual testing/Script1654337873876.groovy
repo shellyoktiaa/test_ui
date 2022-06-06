@@ -19,11 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.instagram.com/')
+WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/')
 
 WebUI.maximizeWindow()
 
 WebUI.delay(7)
 
-WebUI.takeScreenshotAsCheckpoint('visual', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.takeScreenshotAsCheckpoint('demo_visual', FailureHandling.CONTINUE_ON_FAILURE)
 

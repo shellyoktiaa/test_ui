@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Visual Testing" time="15.258" tests="1" failures="0" errors="0">
+   <testsuite name="Visual Testing" tests="1" failures="0" errors="0" time="15.258" skipped="0" timestamp="2022-06-06 21:18:39" hostname="Shelly - LAPTOP-E00FH6K0.mshome.net" id="Test Suites/Visual Testing">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Shelly\\git\\test_ui\\test_ui\\Reports\\20220606_211829\\Visual Testing\\20220606_211829"/>
+         <property name="logFiles" value="C:\\Users\\Shelly\\git\\test_ui\\test_ui\\Reports\\20220606_211829\\Visual Testing\\20220606_211829\\execution0.log"/>
+         <property name="attachments" value="keyes\keyes-demo.png"/>
+         <property name="hostName" value="Shelly - LAPTOP-E00FH6K0.mshome.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.3.5.208"/>
+         <property name="browser" value="Chrome 102.0.5005.63"/>
+         <property name="hostAddress" value="172.24.240.1"/>
+         <property name="sessionId" value="2f7f5af64e574f416c3619e956639e42"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/visual testing" time="14.931" classname="Test Cases/visual testing" status="PASSED">
+         <system-out><![CDATA[2022-06-06 21:18:40 - [TEST_CASE][PASSED] - Test Cases/visual testing: Test Cases/visual testing
+
+2022-06-06 21:18:40 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-06-06 21:18:40 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-06-06 21:18:40 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-06-06 21:18:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-06-06 21:18:43 - [TEST_STEP][PASSED] - navigateToUrl("https://www.instagram.com/"): Navigate to 'https://www.instagram.com/' successfully
+
+2022-06-06 21:18:46 - [MESSAGE][PASSED] - Navigate to 'https://www.instagram.com/' successfully
+
+2022-06-06 21:18:46 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-06-06 21:18:46 - [MESSAGE][PASSED] - Current window maximized
+
+2022-06-06 21:18:46 - [TEST_STEP][PASSED] - delay(7): Delayed 7 second(s)
+
+2022-06-06 21:18:53 - [MESSAGE][PASSED] - Delayed 7 second(s)
+
+2022-06-06 21:18:53 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("demo", CONTINUE_ON_FAILURE): Taking screenshot successfully
+
+2022-06-06 21:18:54 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-06-06 21:18:54 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-demo.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-06-06 21:18:39 - [TEST_SUITE][PASSED] - Visual Testing: Test Cases/visual testing]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

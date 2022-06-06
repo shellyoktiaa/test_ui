@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Visual Testing,Chrome 102.0.5005.63,,,2022-06-06 21:20:54,2022-06-06 21:21:09,14.875s,PASSED
+,,,,,,,
+Test Cases/visual testing,Chrome 102.0.5005.63,,,2022-06-06 21:20:55,2022-06-06 21:21:09,14.535s,PASSED
+"openBrowser("""")",Chrome 102.0.5005.63,,,2022-06-06 21:20:55,2022-06-06 21:20:58,2.911s,PASSED
+"navigateToUrl(""https://www.instagram.com/"")",Chrome 102.0.5005.63,,,2022-06-06 21:20:58,2022-06-06 21:21:00,2.421s,PASSED
+maximizeWindow(),Chrome 102.0.5005.63,,,2022-06-06 21:21:00,2022-06-06 21:21:01,0.170s,PASSED
+delay(7),Chrome 102.0.5005.63,,,2022-06-06 21:21:01,2022-06-06 21:21:08,7.040s,PASSED
+"takeScreenshotAsCheckpoint(""demo"", CONTINUE_ON_FAILURE)",Chrome 102.0.5005.63,,,2022-06-06 21:21:08,2022-06-06 21:21:09,1.551s,PASSED
